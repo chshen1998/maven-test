@@ -40,7 +40,7 @@
     <scm>
         <connection>scm:git:git://github.com/chshen1998/maven-test.git</connection>
         <developerConnection>scm:git:ssh://github.com/chshen1998/maven-test.git</developerConnection>
-        <url>http://github.com/chshen1998/maven-test</url>
+        <url>http://github.com/chshen1998/maven-test/tree/master</url>
     </scm>
 
     <distributionManagement>

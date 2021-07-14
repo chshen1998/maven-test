@@ -6,7 +6,7 @@
 
     <groupId>io.github.chshen1998</groupId>
     <artifactId>maven-test-proj</artifactId>
-    <version>1.0</version>
+    <version>1.4</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -71,8 +71,6 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <keyname>${gpg.keyname}</keyname>
-                    <passphrase>${gpg.passphrase}</passphrase>
                     <gpgArguments>
                         <arg>--pinentry-mode</arg>
                         <arg>loopback</arg>

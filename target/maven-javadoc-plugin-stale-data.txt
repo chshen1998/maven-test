@@ -1,4 +1,5 @@
 @options
+@packages
 @argfile
 -classpath
 'C:/Users/hchew/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.12.3/jackson-core-2.12.3.jar;C:/Users/hchew/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.3/jackson-annotations-2.12.3.jar;C:/Users/hchew/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.12.3/jackson-databind-2.12.3.jar'
@@ -17,33 +18,37 @@
 -docencoding
 'UTF-8'
 -doctitle
-'io.github.chshen1998:maven-test-proj 1.0 API'
+'io.github.chshen1998:maven-test-proj 1.4 API'
 -linkoffline
 'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/hchew/Desktop/maven test/target/javadoc-bundle-options'
 -use
 -version
 -windowtitle
-'io.github.chshen1998:maven-test-proj 1.0 API'
+'io.github.chshen1998:maven-test-proj 1.4 API'
+Divider
 'C:/Users/hchew/Desktop/maven test/src/main/java/Adder.java'
+'C:/Users/hchew/Desktop/maven test/src/main/java/Divider/Divider.java'
 C:\Users\hchew\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.3\jackson-core-2.12.3.jar = 1623216450875
 C:\Users\hchew\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.3\jackson-annotations-2.12.3.jar = 1623216450859
 C:\Users\hchew\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.3\jackson-databind-2.12.3.jar = 1623216451892
 C:\Users\hchew\Desktop\maven test\src\main\java\Adder.java = 1626078452777
-C:\Users\hchew\Desktop\maven test\src\main\java = 1626078452777
-C:\Users\hchew\Desktop\maven test\target\generated-sources\annotations = 1626150102057
-C:\Users\hchew\Desktop\maven test\target\apidocs\Adder.html = 1626150106300
-C:\Users\hchew\Desktop\maven test\target\apidocs\allclasses-frame.html = 1626150106388
-C:\Users\hchew\Desktop\maven test\target\apidocs\allclasses-noframe.html = 1626150106390
-C:\Users\hchew\Desktop\maven test\target\apidocs\constant-values.html = 1626150106345
-C:\Users\hchew\Desktop\maven test\target\apidocs\deprecated-list.html = 1626150106383
-C:\Users\hchew\Desktop\maven test\target\apidocs\help-doc.html = 1626150106397
-C:\Users\hchew\Desktop\maven test\target\apidocs\index-all.html = 1626150106373
-C:\Users\hchew\Desktop\maven test\target\apidocs\index.html = 1626150106392
-C:\Users\hchew\Desktop\maven test\target\apidocs\overview-tree.html = 1626150106360
-C:\Users\hchew\Desktop\maven test\target\apidocs\package-frame.html = 1626150106319
-C:\Users\hchew\Desktop\maven test\target\apidocs\package-list = 1626150106310
-C:\Users\hchew\Desktop\maven test\target\apidocs\package-summary.html = 1626150106336
-C:\Users\hchew\Desktop\maven test\target\apidocs\package-tree.html = 1626150106340
-C:\Users\hchew\Desktop\maven test\target\apidocs\package-use.html = 1626150106357
-C:\Users\hchew\Desktop\maven test\target\apidocs\script.js = 1626150106401
-C:\Users\hchew\Desktop\maven test\target\apidocs\stylesheet.css = 1626150106400
+C:\Users\hchew\Desktop\maven test\src\main\java = 1626228424800
+C:\Users\hchew\Desktop\maven test\target\generated-sources\annotations = 1626246926936
+C:\Users\hchew\Desktop\maven test\target\apidocs\Adder.html = 1626246929649
+C:\Users\hchew\Desktop\maven test\target\apidocs\allclasses-frame.html = 1626246929720
+C:\Users\hchew\Desktop\maven test\target\apidocs\allclasses-noframe.html = 1626246929721
+C:\Users\hchew\Desktop\maven test\target\apidocs\constant-values.html = 1626246929692
+C:\Users\hchew\Desktop\maven test\target\apidocs\deprecated-list.html = 1626246929718
+C:\Users\hchew\Desktop\maven test\target\apidocs\help-doc.html = 1626246929728
+C:\Users\hchew\Desktop\maven test\target\apidocs\index-all.html = 1626246929716
+C:\Users\hchew\Desktop\maven test\target\apidocs\index.html = 1626246929723
+C:\Users\hchew\Desktop\maven test\target\apidocs\overview-frame.html = 1626246929670
+C:\Users\hchew\Desktop\maven test\target\apidocs\overview-summary.html = 1626246929725
+C:\Users\hchew\Desktop\maven test\target\apidocs\overview-tree.html = 1626246929712
+C:\Users\hchew\Desktop\maven test\target\apidocs\package-frame.html = 1626246929672
+C:\Users\hchew\Desktop\maven test\target\apidocs\package-list = 1626246929668
+C:\Users\hchew\Desktop\maven test\target\apidocs\package-summary.html = 1626246929677
+C:\Users\hchew\Desktop\maven test\target\apidocs\package-tree.html = 1626246929681
+C:\Users\hchew\Desktop\maven test\target\apidocs\package-use.html = 1626246929705
+C:\Users\hchew\Desktop\maven test\target\apidocs\script.js = 1626246929733
+C:\Users\hchew\Desktop\maven test\target\apidocs\stylesheet.css = 1626246929731

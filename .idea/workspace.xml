@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4cf3b69f-3fdb-4e09-86b0-31659831eb14" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/target/apidocs/Adder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/Adder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/class-use/Adder.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/class-use/Adder.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-javadoc-plugin-stale-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-javadoc-plugin-stale-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-test-proj-1.0-jar-with-dependencies.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-test-proj-1.0-jar-with-dependencies.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-test-proj-1.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-test-proj-1.0-javadoc.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-test-proj-1.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-test-proj-1.0-sources.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-test-proj-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-test-proj-1.0.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-test-proj-1.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-test-proj-1.0.pom.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/2f346708ccfe67.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/2f346708ccfe67.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/2f346708ccfe67/.index" beforeDir="false" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/2f346708ccfe67/.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/2f346708ccfe67/io/github/chshen1998/maven-test-proj/1.0/maven-test-proj-1.0-jar-with-dependencies.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/2f346708ccfe67/io/github/chshen1998/maven-test-proj/1.0/maven-test-proj-1.0-jar-with-dependencies.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/2f346708ccfe67/io/github/chshen1998/maven-test-proj/1.0/maven-test-proj-1.0-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/2f346708ccfe67/io/github/chshen1998/maven-test-proj/1.0/maven-test-proj-1.0-javadoc.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/2f346708ccfe67/io/github/chshen1998/maven-test-proj/1.0/maven-test-proj-1.0-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/2f346708ccfe67/io/github/chshen1998/maven-test-proj/1.0/maven-test-proj-1.0-sources.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/2f346708ccfe67/io/github/chshen1998/maven-test-proj/1.0/maven-test-proj-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/2f346708ccfe67/io/github/chshen1998/maven-test-proj/1.0/maven-test-proj-1.0.jar.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/2f346708ccfe67/io/github/chshen1998/maven-test-proj/1.0/maven-test-proj-1.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/2f346708ccfe67/io/github/chshen1998/maven-test-proj/1.0/maven-test-proj-1.0.pom.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/nexus-staging/staging/2f346708ccfe67/io/github/chshen1998/maven-test-proj/maven-metadata-nexus.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/nexus-staging/staging/2f346708ccfe67/io/github/chshen1998/maven-test-proj/maven-metadata-nexus.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vCBIDNjEfSoIGsknrERHdBPU2Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cf3b69f-3fdb-4e09-86b0-31659831eb14" name="Default Changelist" comment="" />
+      <created>1626056109881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626056109881</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

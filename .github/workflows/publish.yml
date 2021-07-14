@@ -25,17 +25,9 @@ jobs:
           gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
           gpg-passphrase: MAVEN_GPG_PASSPHRASE
       - name: Publish to the Maven Central Repository
-        run: mvn --batch-mode deploy -P ossrh
+        run: mvn --batch-mode deploy 
         env:
           MAVEN_USERNAME: ${{ secrets.OSSRH_USERNAME }}
           MAVEN_PASSWORD: ${{ secrets.OSSRH_TOKEN }}
           MAVEN_GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
-      - name: Set up Java for publishing to GitHub Packages
-        uses: actions/setup-java@v2
-        with:
-          java-version: '8'
-          distribution: 'adopt'
-      - name: Publish to GitHub Packages
-        run: mvn --batch-mode deploy -P github
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

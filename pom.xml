@@ -76,7 +76,7 @@
                                 </goals>
                             </execution>
                         </executions>
-                        <configuration
+                        <configuration>
                             <gpgArguments>
                                 <arg>--pinentry-mode</arg>
                                 <arg>loopback</arg>

@@ -12,6 +12,7 @@ jobs:
       name: publish
     permissions:
       contents: read
+      packages: write
 
     steps:
       - uses: actions/checkout@v2

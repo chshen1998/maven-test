@@ -8,6 +8,8 @@ jobs:
   build-and-publish:
 
     runs-on: ubuntu-latest
+    environment:
+      name: publish
     permissions:
       contents: read
       packages: write

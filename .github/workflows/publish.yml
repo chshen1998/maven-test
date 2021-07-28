@@ -7,11 +7,10 @@ on:
 jobs:
   build-and-publish:
 
-    runs-on: ubuntu-latest
-    environment:
-      name: publish
+    runs-on: ubuntu-lates
     permissions:
       contents: read
+      packages: write
 
     steps:
       - uses: actions/checkout@v2

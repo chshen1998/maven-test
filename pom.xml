@@ -18,6 +18,7 @@
         <junit.platform.version>1.8.0-M1</junit.platform.version>
         <powermock.version>2.0.9</powermock.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <sonar.projectKey>test_project</sonar.projectKey>
     </properties>
 
     <name>${project.groupId}:${project.artifactId}</name>
@@ -157,6 +158,11 @@
                         </goals>
                     </execution>
                 </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.sonarsource.scanner.maven</groupId>
+                <artifactId>sonar-maven-plugin</artifactId>
+                <version>3.9.0.2155</version>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

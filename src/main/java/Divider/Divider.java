@@ -17,13 +17,6 @@ public class Divider {
         return x/y;
     }
 
-    /**
-     * Divides x with y
-     *
-     * @param x value
-     * @param y value
-     * @return the div
-     */
     public String divide(String x, String y) {
         return x + y;
     }

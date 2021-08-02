@@ -1,5 +1,7 @@
+package Adder;
+
 /**
- * The Adder class provides adding methods
+ * The Adder.Adder class provides adding methods
  */
 public class Adder {
     public Adder() {}

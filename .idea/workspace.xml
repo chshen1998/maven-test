@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ae3827-3a62-4b35-a742-f6426523e498" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Adder/Adder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Divider/Divider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Divider/Divider.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +39,15 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
